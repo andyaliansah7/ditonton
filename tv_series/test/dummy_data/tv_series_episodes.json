@@ -1,0 +1,29 @@
+{
+  "_id": "52532e2119c2957940000047",
+  "air_date": "2004-01-12",
+  "episodes": [
+    {
+      "air_date": "2004-01-12",
+      "episode_number": 1,
+      "episode_type": "standard",
+      "id": 1130462,
+      "name": "Bond of Love and Youth",
+      "overview": "",
+      "production_code": "",
+      "runtime": 60,
+      "season_number": 1,
+      "show_id": 1,
+      "still_path": "/96Cwc5ejUAiH6iAA6xOp96dkSZS.jpg",
+      "vote_average": 9,
+      "vote_count": 4,
+      "crew": [],
+      "guest_stars": []
+    }
+  ],
+  "name": "Season 1",
+  "overview": "",
+  "id": 2328126,
+  "poster_path": "/96Cwc5ejUAiH6iAA6xOp96dkSZS.jpg",
+  "season_number": 1,
+  "vote_average": 9
+}

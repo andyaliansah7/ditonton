@@ -1,0 +1,31 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/q4CbisNArigphVn608Faxijdw8N.jpg",
+      "id": 95,
+      "name": "Buffy the Vampire Slayer",
+      "original_language": "en",
+      "original_name": "Buffy the Vampire Slayer",
+      "overview": "Into every generation a slayer is born: one girl in all the world, a chosen one. She alone will wield the strength and skill to fight the vampires, demons, and the forces of darkness; to stop the spread of their evil and the swell of their number. She is the Slayer.",
+      "poster_path": "/41jsOEYsh9lJBc6AZqGpR1ETpx5.jpg",
+      "media_type": "tv",
+      "genre_ids": [
+        10765,
+        35,
+        18,
+        10759
+      ],
+      "popularity": 238.856,
+      "first_air_date": "1997-03-10",
+      "vote_average": 8.152,
+      "vote_count": 1573,
+      "origin_country": [
+        "US"
+      ]
+    }
+  ],
+  "total_pages": 2,
+  "total_results": 40
+}
