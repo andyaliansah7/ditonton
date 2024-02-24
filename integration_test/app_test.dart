@@ -20,6 +20,9 @@ void main() {
         await tester.testTextInput.receiveAction(TextInputAction.done);
         await tester.pumpAndSettle();
 
+        await tester.tap(find.byKey(const Key('tab-movies')));
+        await tester.pumpAndSettle();
+
         await tester.scrollUntilVisible(
             find.byKey(const Key('movie-634649')), 100,
             scrollable: find.byType(Scrollable).last);

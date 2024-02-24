@@ -46,7 +46,7 @@ class SearchPage extends StatelessWidget {
               const TabBar(
                 tabs: <Widget>[
                   Tab(
-                    child: Text("Movies"),
+                    child: Text(key: Key('tab-movies'), "Movies"),
                   ),
                   Tab(
                     child: Text("TV Series"),
