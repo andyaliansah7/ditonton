@@ -46,10 +46,10 @@ Jika kamu menerapkan modular pada project, Anda dapat memanfaatkan berkas `test.
     atau
     ```
     ./test.sh
-
-[![Codemagic build status](https://api.codemagic.io/apps/65d8d4b5496bebaded5f3a28/65d8d4b5496bebaded5f3a27/status_badge.svg)](https://codemagic.io/apps/65d8d4b5496bebaded5f3a28/65d8d4b5496bebaded5f3a27/latest_build)
     ```
     Proses ini akan men-*generate* berkas `lcov.info` dan folder `coverage` terkait dengan laporan coverage.
 4. Tunggu proses testing selesai hingga muncul web terkait laporan coverage.
 
 # ditonton
+
+[![Codemagic build status](https://api.codemagic.io/apps/65d8d4b5496bebaded5f3a28/65d8d4b5496bebaded5f3a27/status_badge.svg)](https://codemagic.io/apps/65d8d4b5496bebaded5f3a28/65d8d4b5496bebaded5f3a27/latest_build)
